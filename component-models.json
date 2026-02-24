@@ -3190,6 +3190,18 @@
     ]
   },
   {
+    "id": "contact-cards",
+    "fields": [
+      {
+        "component": "text",
+        "name": "reference",
+        "value": "",
+        "label": "Content Fragment Folder Path",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "form-image",
     "fields": [
       {
